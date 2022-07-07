@@ -1,6 +1,6 @@
 # Hi there
 
-![Imgur Image/](https://imgur.com/CDJx2J3)
+![Imgur Image](https://i.imgur.com/CDJx2J3.gif)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=recvizit&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
